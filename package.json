@@ -1,0 +1,21 @@
+{
+  "name": "prueba---skate-park",
+  "version": "1.0.0",
+  "description": "Prueba final framework express",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "author": "jonathan bustos ramos",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.1.3",
+    "express": "^4.18.1",
+    "express-fileupload": "^1.3.1",
+    "express-handlebars": "^5.3.5",
+    "jsonwebtoken": "^8.5.1",
+    "nodemon": "^2.0.16",
+    "pg": "^8.7.3"
+  }
+}
